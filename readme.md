@@ -36,5 +36,4 @@ This project is an epitome of how various Python libraries can be harmoniously i
 1. Ensure all necessary packages are installed.
 2. Open terminal or command prompt.
 3. Execute the following command: 
-   ```bash
    streamlit run GUI.py
